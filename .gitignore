@@ -1,0 +1,16 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# EasyEDA / EDA tools
+*.bak
+*.lck
+
+# Misc
+Thumbs.db
+*.swp
+*~
+
+# Template
+template_to_be_deleted/

@@ -1,0 +1,61 @@
+{
+  "fill" : "system-light",
+  "groups" : [
+    {
+      "layers" : [
+        {
+          "image-name" : "Snoopy_Peanuts.png",
+          "name" : "Snoopy_Peanuts",
+          "opacity" : 1,
+          "position" : {
+            "scale" : 2.5,
+            "translation-in-points" : [
+              0,
+              316.0078125
+            ]
+          }
+        },
+        {
+          "fill-specializations" : [
+            {
+              "appearance" : "dark",
+              "value" : "system-light"
+            }
+          ],
+          "image-name" : "2fe093a44a3dbdd1f9bb0b63ab96bcbc.png",
+          "name" : "2fe093a44a3dbdd1f9bb0b63ab96bcbc",
+          "opacity-specializations" : [
+            {
+              "value" : 0.8
+            },
+            {
+              "appearance" : "dark",
+              "value" : 0.45
+            }
+          ],
+          "position" : {
+            "scale" : 0.8,
+            "translation-in-points" : [
+              0,
+              -162.2890625
+            ]
+          }
+        }
+      ],
+      "name" : "Group",
+      "shadow" : {
+        "kind" : "neutral",
+        "opacity" : 0.6
+      },
+      "translucency" : {
+        "enabled" : true,
+        "value" : 0.2
+      }
+    }
+  ],
+  "supported-platforms" : {
+    "squares" : [
+      "macOS"
+    ]
+  }
+}
