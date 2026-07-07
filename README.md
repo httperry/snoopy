@@ -35,7 +35,7 @@ For component details, see the [BOM](./BOM.md). For schematics, head to [Schemat
 | PWR Management | ![Complete](https://img.shields.io/badge/Schematic-Complete-brightgreen?style=flat-square) | [View](./Schematics/PWR%20Management/README.md) |
 | Ethernet Connections | ![Complete](https://img.shields.io/badge/Schematic-Complete-brightgreen?style=flat-square) | [View](./Schematics/Ethernet%20Connections/README.md) |
 | CM4 Connections | ![Complete](https://img.shields.io/badge/Schematic-Complete-brightgreen?style=flat-square) | [View](./Schematics/CM4%20Connections/README.md) |
-| PCB Layout & Routing | ![Planned](https://img.shields.io/badge/Status-Planned-lightgrey?style=flat-square) | — |
+| PCB Layout & Routing | ![In Progress](https://img.shields.io/badge/Status-In%20Progress-orange?style=flat-square) | — |
 | Enclosure | ![Planned](https://img.shields.io/badge/Status-Planned-lightgrey?style=flat-square) | — |
 
 ---
