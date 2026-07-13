@@ -9,6 +9,10 @@
 
 ---
 
+![Enclosure](./Snoopy.png)
+
+---
+
 ## Exports
 
 | File | Format | Description |
