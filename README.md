@@ -6,7 +6,7 @@
 
 # Snoopy
 
-![Status](https://img.shields.io/badge/Status-In%20Development-orange?style=flat-square)
+![Status](https://img.shields.io/badge/Status-Complete-brightgreen?style=flat-square)
 ![Compute](https://img.shields.io/badge/Compute-Raspberry%20Pi%20CM4-c51a4a?style=flat-square)
 ![License](https://img.shields.io/badge/License-MIT-yellow?style=flat-square)
 
@@ -14,7 +14,7 @@
 
 ---
 
-**Navigate:** [Schematics](./Schematics/README.md) · [PCB](./PCB/README.md) · [BOM](./BOM.md) · [Resources](./Resources/README.md)
+**Navigate:** [Schematics](./Schematics/README.md) · [PCB](./PCB/README.md) · [Enclosure](./Enclosure/README.md) · [BOM](./BOM.md) · [Resources](./Resources/README.md)
 
 ---
 
@@ -26,6 +26,8 @@ The board handles its own power management, runs the CM4 over a high-density boa
 
 For component details, see the [BOM](./BOM.md). For schematics, head to [Schematics](./Schematics/README.md)
 
+![PCB](./PCB/Screenshot%202026-07-09%20at%207.16.14%20PM.png)
+
 ---
 
 ## Progress
@@ -36,7 +38,7 @@ For component details, see the [BOM](./BOM.md). For schematics, head to [Schemat
 | Ethernet Connections | ![Complete](https://img.shields.io/badge/Schematic-Complete-brightgreen?style=flat-square) | [View](./Schematics/Ethernet%20Connections/README.md) |
 | CM4 Connections | ![Complete](https://img.shields.io/badge/Schematic-Complete-brightgreen?style=flat-square) | [View](./Schematics/CM4%20Connections/README.md) |
 | PCB Layout & Routing | ![Complete](https://img.shields.io/badge/Status-Complete-brightgreen?style=flat-square) | [View](./PCB/README.md) |
-| Enclosure | ![In Progress](https://img.shields.io/badge/Status-In%20Progress-orange?style=flat-square) | — |
+| Enclosure | ![Complete](https://img.shields.io/badge/Status-Complete-brightgreen?style=flat-square) | [View](./Enclosure/README.md) |
 
 ---
 
