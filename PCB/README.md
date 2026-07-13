@@ -9,7 +9,7 @@ Full board layout and routing for Snoopy — 3-port Ethernet switch with CM4. Ge
 
 ---
 
-![PCB Preview](./Screenshot%202026-07-09%20at%207.16.14%20PM.png)
+![PCB Preview](./Screenshot%202026-07-09%20at%207.16.14%E2%80%AFPM.png)
 
 ---
 

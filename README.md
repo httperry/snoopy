@@ -26,7 +26,7 @@ The board handles its own power management, runs the CM4 over a high-density boa
 
 For component details, see the [BOM](./BOM.md). For schematics, head to [Schematics](./Schematics/README.md)
 
-![PCB](./PCB/Screenshot%202026-07-09%20at%207.16.14%20PM.png)
+![PCB](./PCB/Screenshot%202026-07-09%20at%207.16.14%E2%80%AFPM.png)
 
 ---
 
