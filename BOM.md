@@ -3,7 +3,7 @@
 # Bill of Materials
 
 **Snoopy** — 3-Port Ethernet Switch with CM4 Monitoring
-Last Updated: 2026-07-06 · REV 1.0
+Last Updated: 2026-07-09 · REV 1.1
 
 > This BOM reflects the current schematic revision. Quantities are per board unless otherwise noted. All passives are sourced from LCSC
 
@@ -13,7 +13,7 @@ Last Updated: 2026-07-06 · REV 1.0
 
 | Component | Source | Qty | Product Link |
 |---|---|---|---|
-| Raspberry Pi CM4 | Raspberry Pi | 1 | [raspberrypi.com](https://www.raspberrypi.com/products/compute-module-4/) |
+| Raspberry Pi CM4 | Raspberry Pi | 1 | [thingbits.in](https://www.thingbits.in/products/raspberry-pi-compute-module-4) |
 | DF40C-100DS-0.4V(51) CM4 Board-to-Board Connector | LCSC | 2 | [lcsc.com](https://www.lcsc.com/product-detail/Board-to-Board-Connectors_HRS_C597931.html) |
 
 ---
@@ -57,7 +57,7 @@ Last Updated: 2026-07-06 · REV 1.0
 | Value | Footprint | Qty | Manufacturer P/N | Source | LCSC # |
 |---|---|---|---|---|---|
 | 100nF | C0402 | 29 | AC0402KRX7R9BB104 | YAGEO | C288326 |
-| 10µF | C0603 | 4 | HGC0603R5106M250NTHJ | Chinocera | C747296 |
+| 10µF | C0603 | 4 | HGC0603R5106M250NTHJ | Chinocera | C7472961 |
 | 18pF | C0402 | 2 | GRM1555C1H180JA01D | muRata | C33149 |
 | 100nF | C0402 | 1 | CC0402KRX5R8BB104 | YAGEO | C106256 |
 | 1nF | C0402 | 2 | CC0402KRX7R8BB102 | YAGEO | C541372 |
@@ -78,7 +78,7 @@ Last Updated: 2026-07-06 · REV 1.0
 | 470Ω | R0402 | 4 | FRC0402F4700TS | FOJAN | C2909361 |
 | 5.1kΩ | R0603 | 2 | RMC06035.1K5%N | Tyohm | C269696 |
 | 63.4Ω | R0603 | 1 | PTFR0603B63R4P9 | RESI | C47115900 |
-| 200kΩ | R0402 | 1 | ARG02BTC2003 | Viking | C298414 |
+| 200kΩ | R0402 | 1 | ARG02BTC2003 | Viking | C2984414 |
 | 1MΩ | R0805 | 1 | AR05BTC1004 | Viking | C374666 |
 | 24.9kΩ | R0603 | 1 | PTFR0603B24K9N9 | RESI | C2692729 |
 | 100kΩ | R0402 | 2 | RT0402BRD07100KL | YAGEO | C852472 |
