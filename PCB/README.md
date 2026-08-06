@@ -18,5 +18,6 @@ Full board layout and routing for Snoopy — 3-port Ethernet switch with CM4. Ge
 | File | Format | Description |
 |---|---|---|
 | [Gerber_Snoopy_PCB_Snoopy_2026-07-09.zip](./Gerber_Snoopy_PCB_Snoopy_2026-07-09.zip) | ZIP | Gerber files for fabrication |
+| [PCB_PCB_Snoopy_2026-08-06.json](./PCB_PCB_Snoopy_2026-08-06.json) | JSON | JSON PCB files |
 | [PCB_PCB-Snoopy_2026-07-09.svg](./PCB_PCB-Snoopy_2026-07-09.svg) | SVG | Full board SVG export |
 | [PickAndPlace_PCB_Snoopy_2026-07-09.csv](./PickAndPlace_PCB_Snoopy_2026-07-09.csv) | CSV | Pick and place file for assembly |
