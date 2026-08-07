@@ -5,7 +5,7 @@
 **Snoopy** — 3-Port Ethernet Switch with CM4 Monitoring
 Last Updated: 2026-07-09 · REV 1.1
 
-> This BOM reflects the current schematic revision. Quantities are per board unless otherwise noted. All passives are sourced from LCSC
+[CSV Format](./BOM/BOM_Snoopy_2026-07-09.csv)
 
 ---
 
