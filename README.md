@@ -13,6 +13,7 @@
 **A 3-port Ethernet switch with a built-in monitoring layer, powered by a Raspberry Pi CM4. Sits between your ISP's router and your devices, giving you real visibility and control over your home network — something most stock router software simply doesn't offer**
 
 EasyEDA: [Snoopy](https://easyeda.com/editor#project_id=7b067378073640e4a270a95197bfada5)
+
 BOM: [BOM.csv](./BOM.csv)
 ---
 
