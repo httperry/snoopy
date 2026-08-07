@@ -15,6 +15,7 @@
 EasyEDA: [Snoopy](https://easyeda.com/editor#project_id=7b067378073640e4a270a95197bfada5)
 
 BOM: [BOM.csv](./BOM.csv)
+
 ---
 
 **Navigate:** [Schematics](./Schematics/README.md) · [PCB](./PCB/README.md) · [Enclosure](./Enclosure/README.md) · [BOM](./BOM.md) · [Resources](./Resources/README.md)
