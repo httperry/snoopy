@@ -12,7 +12,8 @@
 
 **A 3-port Ethernet switch with a built-in monitoring layer, powered by a Raspberry Pi CM4. Sits between your ISP's router and your devices, giving you real visibility and control over your home network — something most stock router software simply doesn't offer**
 
-EasyEDA: [Snoopy](https://easyeda.com/editor#project_id=7b067378073640e4a270a95197bfada5)
+EasyEDA: [Snoopy](https://u.easyeda.com/join?type=project&key=12a0bd7cfbef5957d1b12fef980de245&inviter=137832c330b146bcba1d0ab581e94424)
+To view on EasyEDA accept the invitation, then go to EasyEDA editor and see the shared project there not on OSWLab
 
 BOM: [BOM.csv](./BOM.csv)
 
